@@ -1,1 +1,3 @@
-# pixel_art_maker_project
+# Pixel Art Maker Project
+App that allows you to set a specific number of rows and columns to create a grid of cells and color each one.  
+![pixel-art-maker](pixelArtMaker.png)
